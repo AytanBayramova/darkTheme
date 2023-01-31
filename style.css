@@ -1,0 +1,14 @@
+.ghost{
+    color: white;
+    background-color:black;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+#btn{
+    size: 100px;
+    margin-left: 970px;
+}
